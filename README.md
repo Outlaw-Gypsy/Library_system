@@ -16,7 +16,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/Outlaw-Gypsy/Library_sys_mgmt/blob/main/library_sys_mgmt.png)
+![ERD](https://github.com/Outlaw-Gypsy/Library_system/blob/main/library_sys_mgmt.png)
 
 - **Database Creation**: Created a database named `library_system_management`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
